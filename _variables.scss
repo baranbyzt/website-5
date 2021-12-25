@@ -1,0 +1,15 @@
+
+
+$bg_yellow:#ffc221;
+$bg_white:#fff;
+$bg_choose_item:#666666;
+$bg_black:#000;
+$bg_footer:#1B1B1B;
+$bg_product_item:#DDDDDD;
+
+$font_style_1: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+@mixin width_and_height($width,$height){
+    width: $width;
+    height: $height;
+} 
